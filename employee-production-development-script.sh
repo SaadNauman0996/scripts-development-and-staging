@@ -2,7 +2,7 @@
 
 set -e  # Exit immediately if a command exits with a non-zero status
 
-echo "Hello, I am running because a PR was made to the Development branch!"
+echo "Hello, I am running because a PR was made to the Employee Production Development branch!"
 
 # Navigate to the Vue.js project directory
 echo "Navigating to the project directory..."
